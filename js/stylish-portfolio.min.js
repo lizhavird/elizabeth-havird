@@ -1,5 +1,5 @@
 /*!
- * Start Bootstrap - Stylish Portfolio v5.0.7 (https://startbootstrap.com/template-overviews/stylish-portfolio)
+ * Start Bootstrap - Stylish Portfolio v5.0.8 (https://startbootstrap.com/themes/stylish-portfolio)
  * Copyright 2013-2020 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/blob/master/LICENSE)
  */
