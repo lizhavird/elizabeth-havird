@@ -6,8 +6,8 @@
         "start": "node_modules/.bin/gulp watch"
     },
     "engines": {
-        "node": ">= 10.16.0",
-        "npm":">= 6.14.5"
+        "node": "10.16.0",
+        "npm":"6.14.5"
     },
     "description": "A stylish portfolio HTML template built with Bootstrap",
     "keywords": [
