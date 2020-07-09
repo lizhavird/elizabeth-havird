@@ -5,6 +5,9 @@
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
+    "engines": {
+        "node": "10.16.0"
+    },
     "description": "A stylish portfolio HTML template built with Bootstrap",
     "keywords": [
         "css",
