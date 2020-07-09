@@ -3,7 +3,8 @@
     "name": "startbootstrap-stylish-portfolio",
     "version": "5.0.8",
     "scripts": {
-        "start": "node_modules/.bin/gulp watch"
+        "start": "node_modules/.bin/gulp watch",
+        "serve": "browser-sync start --no-open --server --files \"dist/css/*.css, dist/js/*.js, **/*.html, !node_modules/**/*.html\""
     },
     "engines": {
         "node": "10.16.0",
